@@ -105,7 +105,8 @@ This prevents unauthorized devices from accessing the network while keeping the 
 
 DHCP successfully assigned IP addresses to hosts in each VLAN.
 
-*( )*
+<img width="423" height="423" alt="dhcp-working" src="https://github.com/user-attachments/assets/4db3e670-57c3-4bac-9606-fbc77511e2ef" />
+
 
 ---
 
