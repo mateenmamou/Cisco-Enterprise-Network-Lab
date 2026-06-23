@@ -190,5 +190,4 @@ Cybersecurity & Networking Professional
 
 - CompTIA A+
 - CompTIA Network+
-- Security+ (In Progress)
 - Bachelor of Information Technology Student
