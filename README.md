@@ -96,7 +96,8 @@ This prevents unauthorized devices from accessing the network while keeping the 
 
 ## Network Topology
 
-*(Insert topology screenshot here)*
+*(<img width="1920" height="1080" alt="Network Topology" src="https://github.com/user-attachments/assets/5ae0a573-cccd-4ffc-aab7-a7304f73f9f2" />)*
+
 
 ---
 
@@ -104,7 +105,7 @@ This prevents unauthorized devices from accessing the network while keeping the 
 
 DHCP successfully assigned IP addresses to hosts in each VLAN.
 
-*(Insert ipconfig screenshot here)*
+*( )*
 
 ---
 
@@ -112,7 +113,7 @@ DHCP successfully assigned IP addresses to hosts in each VLAN.
 
 Sales VLAN was unable to communicate with the HR VLAN, confirming that the extended ACL was functioning correctly.
 
-*(Insert failed ping screenshot here)*
+*(<img width="1920" height="1080" alt="port-security-violation" src="https://github.com/user-attachments/assets/8408dce8-c0c3-4d1b-9485-69e2e9ebd6ae" />)*
 
 ---
 
@@ -120,7 +121,8 @@ Sales VLAN was unable to communicate with the HR VLAN, confirming that the exten
 
 Port Security was enabled on switch access ports using Sticky MAC learning and Restrict mode.
 
-*(Insert show port-security screenshot here)*
+<img width="1920" height="1080" alt="acl-blocking-sales-to-hr" src="https://github.com/user-attachments/assets/fb8bbafe-85fa-4cdd-9fbd-943566eaec5a" />
+
 
 ---
 
@@ -130,7 +132,8 @@ An unauthorized device was connected to the HR switch port.
 
 The switch detected the unknown MAC address and generated Port Security violation messages while blocking traffic from the unauthorized device.
 
-*(Insert PSECURE_VIOLATION screenshot here)*
+<img width="1920" height="1080" alt="Security-Violation" src="https://github.com/user-attachments/assets/50e5a4ab-bcbb-4f52-9fa2-6fa16ed89b00" />
+
 
 ---
 
